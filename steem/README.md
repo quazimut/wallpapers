@@ -1,5 +1,3 @@
-# I made a bunch of STEEM wallpapers: 1080p to 4K, both mobile and desktop, 3 different color variants
-
 The Steem logo is a nice design but if you google for Steem wallpapers you get almost nothing so I wanted to change that. I made all combinations of:
 - 3 color variant: light, dark and amoled
 - 2 logo size variant: small and large
@@ -36,20 +34,23 @@ Download: [1080p]()  //  [1440p]()  //  [4K]()
 
 
 <h3> Mobile dark </h3>
-<div class="pull-left">https://steemitimages.com/DQmebGjP9kQnkKD1xVsopRBFa9tj8zgSiKeTswsVbCPPHZy/mobile-dark-large-1440.png</div>
-<div class="pull-right">https://steemitimages.com/DQmXNYJGYQF55qBy6MTc4mTF6HzHgEcfV7u85ACKjX6fEyT/mobile-dark-small-1440.png</div>
+<div class="pull-left"><img src="https://steemitimages.com/DQmebGjP9kQnkKD1xVsopRBFa9tj8zgSiKeTswsVbCPPHZy/mobile-dark-large-1440.png"></div>
+<div class="pull-right"><img src="https://steemitimages.com/DQmXNYJGYQF55qBy6MTc4mTF6HzHgEcfV7u85ACKjX6fEyT/mobile-dark-small-1440.png"></div>
 <div class="pull-left">Download: <a href="#">1080p</a>  // <a href="#">1440p</a>  // <a href="#">4K</a></div>
 <div class="pull-right">Download: <a href="#">1080p</a>  // <a href="#">1440p</a>  // <a href="#">4K</a></div>
 <hr/>
 <h3> Mobile amoled </h3>
-<div class="pull-left">https://steemitimages.com/DQmPP9KE97EpVVkVg8Uyth46uAdqGbU8QuXB8TAXkAxYFva/mobile-amoled-large-1440.png</div>
-<div class="pull-right">https://steemitimages.com/DQmfEMzUyDKzuE8YtbJcJamJv2A9JYUqztzb8xDhXnraw55/mobile-amoled-small-1440.png</div>
+<div class="pull-left"><img src="https://steemitimages.com/DQmPP9KE97EpVVkVg8Uyth46uAdqGbU8QuXB8TAXkAxYFva/mobile-amoled-large-1440.png"></div>
+<div class="pull-right"><img src="https://steemitimages.com/DQmfEMzUyDKzuE8YtbJcJamJv2A9JYUqztzb8xDhXnraw55/mobile-amoled-small-1440.png"></div>
 <div class="pull-left">Download: <a href="#">1080p</a>  // <a href="#">1440p</a>  // <a href="#">4K</a></div>
 <div class="pull-right">Download: <a href="#">1080p</a>  // <a href="#">1440p</a>  // <a href="#">4K</a></div><br>
 <hr/>
 
 <h3> Mobile light </h3>
-<div class="pull-left">https://steemitimages.com/DQmebGjP9kQnkKD1xVsopRBFa9tj8zgSiKeTswsVbCPPHZy/mobile-dark-large-1440.png</div>
-<div class="pull-right">https://steemitimages.com/DQmXNYJGYQF55qBy6MTc4mTF6HzHgEcfV7u85ACKjX6fEyT/mobile-dark-small-1440.png</div>
+<div class="pull-left"><img src="https://steemitimages.com/DQmebGjP9kQnkKD1xVsopRBFa9tj8zgSiKeTswsVbCPPHZy/mobile-dark-large-1440.png"></div>
+<div class="pull-right"><img src="https://steemitimages.com/DQmXNYJGYQF55qBy6MTc4mTF6HzHgEcfV7u85ACKjX6fEyT/mobile-dark-small-1440.png"></div>
 <div class="pull-left">Download: <a href="#">1080p</a>  // <a href="#">1440p</a>  // <a href="#">4K</a></div>
 <div class="pull-right">Download: <a href="#">1080p</a>  // <a href="#">1440p</a>  // <a href="#">4K</a></div>
+<hr/>
+
+*I hope you liked it. If you have a request for other cryptos or variants, let me know in the comments!*
