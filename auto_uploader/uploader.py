@@ -10,7 +10,7 @@ from pprint import pprint
 
 import flickrapi
 
-from auto_uploader.util import print_progress, get_files
+from util import print_progress, get_files
 
 __author__ = 'Mice Pápai'
 __copyright__ = 'Copyright 2018, Mice Pápai'
@@ -92,12 +92,27 @@ def get_info(photo_id):
 
 def gen_md_link(photo_info):
     parts = []
-    size = photo_info['title'].split(' ')[-1]
+    device, color, variant, size = photo_info['title'].split(' ')
 
-    if size == '1440':
-        parts.append(f'![{photo_info["title"]}]({photo_info["raw_url"]})\n')
-
-    parts.append(f'[{size}]({photo_info["page_url"]})\n\n')
+    if device == 'mobile':
+        if size == '1080':
+            if variant == 'large':
+                parts.append(f'\n<h3>{device.title()} {color.title()}</h3>\n')
+            parts.append(f'<div class="pull-{"left" if variant == "large" else "right"}"><img src="{photo_info["raw_url"]}"></div>')
+            parts.append(f'<div class="pull-{"left" if variant == "large" else "right"}">Download: <a href="{photo_info["page_url"]}">{size}p</a>  // ')
+        elif size == '1440':
+            parts.append(f'<a href="{photo_info["page_url"]}">{size}p</a>  // ')
+        else:
+            parts.append(f'<a href="{photo_info["page_url"]}">4K</a></div>\n{"<hr/>" if variant == "small" else ""}')
+    else:
+        if size == '1080':
+            parts.append(f'### {device.title()} {color.title()} {variant.title()}\n')
+            parts.append(f'![{photo_info["title"]}]({photo_info["raw_url"]})\n')
+            parts.append(f'Download: [{size}p]({photo_info["page_url"]}) // ')
+        elif size == '1440':
+            parts.append(f'[{size}p]({photo_info["page_url"]}) // ')
+        else:
+            parts.append(f'[{size}]({photo_info["page_url"]})\n\n')
 
     return ''.join(parts)
 
