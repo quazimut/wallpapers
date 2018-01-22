@@ -4,3 +4,6 @@ auto_uploader/__pycache__/
 auto_uploader/\.keys
 auto_uploader/article\.md
 \.idea/
+input/*.png
+input/*.jpg
+temp-out/*.png
