@@ -10,11 +10,12 @@ from pprint import pprint
 
 import flickrapi
 
-from util import print_progress, get_files
+from .util import print_progress, get_files
 
 __author__ = 'Mice Pápai'
 __copyright__ = 'Copyright 2018, Mice Pápai'
-__credits__ = ['Mice Pápai <mice@gorbekor.hu>']
+__credits__ = ['Mice Pápai <mice@gorbekor.hu>',
+               'Balázs Sáros']
 __license__ = 'All rights reserved'
 __version__ = '0.1.0'
 
@@ -90,29 +91,39 @@ def get_info(photo_id):
             'raw_url':  raw_url}
 
 
-def gen_md_link(photo_info):
+def gen_md_link(info):
     parts = []
-    device, color, variant, size = photo_info['title'].split(' ')
+    device, color, variant, size = info['title'].split(' ')
 
     if device == 'mobile':
         if size == '1080':
+
             if variant == 'large':
                 parts.append(f'\n<h3>{device.title()} {color.title()}</h3>\n')
-            parts.append(f'<div class="pull-{"left" if variant == "large" else "right"}"><img src="{photo_info["raw_url"]}"></div>')
-            parts.append(f'<div class="pull-{"left" if variant == "large" else "right"}">Download: <a href="{photo_info["page_url"]}">{size}p</a>  // ')
+                pull = 'left'
+            else:
+                pull = 'right'
+
+            parts.append(f'<div class="pull-{pull}">'
+                         f'<img src="{info["raw_url"]}"></div>')
+            parts.append(f'<div class="pull-{pull}"> Download:  '
+                         f'<a href="{info["page_url"]}">{size}p</a>  // ')
         elif size == '1440':
-            parts.append(f'<a href="{photo_info["page_url"]}">{size}p</a>  // ')
+            parts.append(f'<a href="{info["page_url"]}">{size}p</a>  // ')
         else:
-            parts.append(f'<a href="{photo_info["page_url"]}">4K</a></div>\n{"<hr/>" if variant == "small" else ""}')
+            parts.append(f'<a href="{info["page_url"]}">4K</a></div>\n')
+            if variant == 'small':
+                parts.append('<hr/>')
     else:
         if size == '1080':
-            parts.append(f'### {device.title()} {color.title()} {variant.title()}\n')
-            parts.append(f'![{photo_info["title"]}]({photo_info["raw_url"]})\n')
-            parts.append(f'Download: [{size}p]({photo_info["page_url"]}) // ')
+            parts.append(f'### {device.title()} {color.title()} '
+                         f'{variant.title()}\n')
+            parts.append(f'![{info["title"]}]({info["raw_url"]})\n')
+            parts.append(f'Download: [{size}p]({info["page_url"]}) // ')
         elif size == '1440':
-            parts.append(f'[{size}p]({photo_info["page_url"]}) // ')
+            parts.append(f'[{size}p]({info["page_url"]}) // ')
         else:
-            parts.append(f'[{size}]({photo_info["page_url"]})\n\n')
+            parts.append(f'[{size}]({info["page_url"]})\n\n')
 
     return ''.join(parts)
 
