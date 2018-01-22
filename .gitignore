@@ -1,2 +1,6 @@
 auto_uploader/.venv
 auto_uploader/to_upload/*.png
+auto_uploader/__pycache__/
+auto_uploader/\.keys
+auto_uploader/article\.md
+\.idea/
