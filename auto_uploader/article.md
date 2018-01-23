@@ -1,37 +1,30 @@
-### Desktop Amoled Large
-![desktop amoled large 1080](https://farm5.staticflickr.com/4744/38944511925_59837d1592_o.png)
-Download: [1080p](https://www.flickr.com/photos/158988076@N06/38944511925/) // [1440p](https://www.flickr.com/photos/158988076@N06/39843376361/) // [4k](https://www.flickr.com/photos/158988076@N06/28064203309/)
+### Desktop Large Amoled
+![desktop large amoled 1080](https://farm5.staticflickr.com/4698/25972012238_02239941c5_o.png)
+Download: [1080p](https://www.flickr.com/photos/158988076@N06/25972012238/) // [1440p](https://www.flickr.com/photos/158988076@N06/39135336494/) // [4K](https://www.flickr.com/photos/158988076@N06/39135336634/)
 
-### Desktop Amoled Small
-![desktop amoled small 1080](https://farm5.staticflickr.com/4720/24972802547_2f31b74ae6_o.png)
-Download: [1080p](https://www.flickr.com/photos/158988076@N06/24972802547/) // [1440p](https://www.flickr.com/photos/158988076@N06/38944512715/) // [4k](https://www.flickr.com/photos/158988076@N06/39811192112/)
+### Desktop Large Dark
+![desktop large dark 1080](https://farm5.staticflickr.com/4753/39135336614_4125905cd7_o.png)
+Download: [1080p](https://www.flickr.com/photos/158988076@N06/39135336614/) // [1440p](https://www.flickr.com/photos/158988076@N06/39845295481/) // [4K](https://www.flickr.com/photos/158988076@N06/39135337644/)
 
-### Desktop Dark Large
-![desktop dark large 1080](https://farm5.staticflickr.com/4766/25970022558_3ee8771e24_o.png)
-Download: [1080p](https://www.flickr.com/photos/158988076@N06/25970022558/) // [1440p](https://www.flickr.com/photos/158988076@N06/24972804537/) // [4k](https://www.flickr.com/photos/158988076@N06/38944514115/)
+### Desktop Large Light
+![desktop large light 1080](https://farm5.staticflickr.com/4713/28066094569_f5ef691e4a_o.png)
+Download: [1080p](https://www.flickr.com/photos/158988076@N06/28066094569/) // [1440p](https://www.flickr.com/photos/158988076@N06/39845295611/) // [4K](https://www.flickr.com/photos/158988076@N06/28066095079/)
 
-### Desktop Dark Small
-![desktop dark small 1080](https://farm5.staticflickr.com/4724/39843377041_711cb1d8b7_o.png)
-Download: [1080p](https://www.flickr.com/photos/158988076@N06/39843377041/) // [1440p](https://www.flickr.com/photos/158988076@N06/24972806097/) // [4k](https://www.flickr.com/photos/158988076@N06/25970023418/)
+### Desktop Small Amoled
+![desktop small amoled 1080](https://farm5.staticflickr.com/4669/39813083602_9eddbfc5e9_o.png)
+Download: [1080p](https://www.flickr.com/photos/158988076@N06/39813083602/) // [1440p](https://www.flickr.com/photos/158988076@N06/39135338504/) // [4K](https://www.flickr.com/photos/158988076@N06/39135339064/)
 
-### Desktop Light Large
-![desktop light large 1080](https://farm5.staticflickr.com/4614/25970023598_4ae9f6f931_o.png)
-Download: [1080p](https://www.flickr.com/photos/158988076@N06/25970023598/) // [1440p](https://www.flickr.com/photos/158988076@N06/24972807657/) // [4k](https://www.flickr.com/photos/158988076@N06/38944515755/)
+### Desktop Small Dark
+![desktop small dark 1080](https://farm5.staticflickr.com/4708/25972014338_82e49b815a_o.png)
+Download: [1080p](https://www.flickr.com/photos/158988076@N06/25972014338/) // [1440p](https://www.flickr.com/photos/158988076@N06/28066095539/) // [4K](https://www.flickr.com/photos/158988076@N06/39845296401/)
 
-### Desktop Light Small
-![desktop light small 1080](https://farm5.staticflickr.com/4602/39843378031_02fb094c78_o.png)
-Download: [1080p](https://www.flickr.com/photos/158988076@N06/39843378031/) // [1440p](https://www.flickr.com/photos/158988076@N06/39843378241/) // [4k](https://www.flickr.com/photos/158988076@N06/24972809197/)
+### Desktop Small Light
+![desktop small light 1080](https://farm5.staticflickr.com/4723/39135340144_8cb7575bfa_o.png)
+Download: [1080p](https://www.flickr.com/photos/158988076@N06/39135340144/) // [1440p](https://www.flickr.com/photos/158988076@N06/25972015338/) // [4K](https://www.flickr.com/photos/158988076@N06/39135340694/)
 
-
-<h3>Mobile Amoled</h3>
-<div class="pull-left"><img src="https://farm5.staticflickr.com/4612/39133458144_3698ab069f_o.png"></div><div class="pull-left">Download: <a href="https://www.flickr.com/photos/158988076@N06/39133458144/">1080p</a>  // <a href="#">1440p</a>  // <a href="4k">4K</a></div>
-<div class="pull-right"><img src="https://farm5.staticflickr.com/4703/38944517605_200df24cd2_o.png"></div><div class="pull-right">Download: <a href="https://www.flickr.com/photos/158988076@N06/38944517605/">1080p</a>  // <a href="#">1440p</a>  // <a href="4k">4K</a></div>
-<hr/>
-<h3>Mobile Dark</h3>
-<div class="pull-left"><img src="https://farm5.staticflickr.com/4768/24972811917_0d72a47b28_o.png"></div><div class="pull-left">Download: <a href="https://www.flickr.com/photos/158988076@N06/24972811917/">1080p</a>  // <a href="#">1440p</a>  // <a href="4k">4K</a></div>
-<div class="pull-right"><img src="https://farm5.staticflickr.com/4672/28064205249_5a8ccdd488_o.png"></div><div class="pull-right">Download: <a href="https://www.flickr.com/photos/158988076@N06/28064205249/">1080p</a>  // <a href="#">1440p</a>  // <a href="4k">4K</a></div>
-<hr/>
-<h3>Mobile Light</h3>
-<div class="pull-left"><img src="https://farm5.staticflickr.com/4694/39843380331_b49b1d103a_o.png"></div><div class="pull-left">Download: <a href="https://www.flickr.com/photos/158988076@N06/39843380331/">1080p</a>  // <a href="#">1440p</a>  // <a href="4k">4K</a></div>
-<div class="pull-right"><img src="https://farm5.staticflickr.com/4655/24972815457_3d7cb81754_o.png"></div><div class="pull-right">Download: <a href="https://www.flickr.com/photos/158988076@N06/24972815457/">1080p</a>  // <a href="#">1440p</a>  // <a href="4k">4K</a></div>
-<hr/>
+<div class="pull-right"><img src="https://farm5.staticflickr.com/4610/38946458685_79dc4eafb0_o.png"></div><div class="pull-right"> Download:  <a href="https://www.flickr.com/photos/158988076@N06/38946458685/">1080p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/25972016458/">1440p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/39135341744/">4K</a></div>
+<div class="pull-right"><img src="https://farm5.staticflickr.com/4630/39135341994_ebd90631a7_o.png"></div><div class="pull-right"> Download:  <a href="https://www.flickr.com/photos/158988076@N06/39135341994/">1080p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/25972017128/">1440p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/39845297361/">4K</a></div>
+<div class="pull-right"><img src="https://farm5.staticflickr.com/4752/24974819047_40defa7934_o.png"></div><div class="pull-right"> Download:  <a href="https://www.flickr.com/photos/158988076@N06/24974819047/">1080p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/39813085582/">1440p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/25972018058/">4K</a></div>
+<div class="pull-right"><img src="https://farm5.staticflickr.com/4696/28066097169_5e805f0e52_o.png"></div><div class="pull-right"> Download:  <a href="https://www.flickr.com/photos/158988076@N06/28066097169/">1080p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/24974819717/">1440p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/39135343874/">4K</a></div>
+<div class="pull-right"><img src="https://farm5.staticflickr.com/4751/39135344374_4d42523c0d_o.png"></div><div class="pull-right"> Download:  <a href="https://www.flickr.com/photos/158988076@N06/39135344374/">1080p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/25972018898/">1440p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/39135344824/">4K</a></div>
+<div class="pull-right"><img src="https://farm5.staticflickr.com/4668/39135344684_a61a78f3e0_o.png"></div><div class="pull-right"> Download:  <a href="https://www.flickr.com/photos/158988076@N06/39135344684/">1080p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/39813086602/">1440p</a>  // <a href="https://www.flickr.com/photos/158988076@N06/24974820877/">4K</a></div>

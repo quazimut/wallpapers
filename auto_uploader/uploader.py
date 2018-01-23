@@ -10,7 +10,7 @@ from pprint import pprint
 
 import flickrapi
 
-from .util import print_progress, get_files
+from util import print_progress, get_files
 
 __author__ = 'Mice Pápai'
 __copyright__ = 'Copyright 2018, Mice Pápai'
